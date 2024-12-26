@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="editTitle" type="id" />
+    <item name="editAuthor" type="id" />
+    <item name="editDescription" type="id" />
+    <item name="saveButton" type="id" />
+</resources>
